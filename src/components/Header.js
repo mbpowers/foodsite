@@ -48,7 +48,9 @@ function Header() {
 export default Header
 
 const Container = styled.header`
-    position: fixed;
+    position: -webkit-sticky; /* Safari */
+    position: sticky;
+    top: 0;
     width: 100%;
     font-size: 20px;
     * {

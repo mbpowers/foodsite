@@ -13,7 +13,7 @@ function Footer() {
 export default Footer
 
 const Container = styled.div`
-    scroll-snap-align: start;
+    scroll-snap-align: end;
     width: 100%;
     height: 400px;
     background: #111111FF;
