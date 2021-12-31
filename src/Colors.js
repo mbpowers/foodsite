@@ -1,0 +1,17 @@
+export const COLORS = {
+    mantis: '#7AC74F',
+    pistachio: '#A1CF6B',
+    khaki: '#D5D887',
+    flax: '#E0C879',
+    terracotta: '#E87461',
+    rich: '#0d0c0e',
+    coffee: '#30262a',
+    umber: '#564a42',
+    moss: '#98a551',
+    olive: '#7b8c41',
+    fogra: '#0d0c0dff',
+    raisin: '#2e2629ff',
+    lava: '#544a43ff',
+    moss2: '#939c56ff',
+    moss3: '#768446ff',
+}
